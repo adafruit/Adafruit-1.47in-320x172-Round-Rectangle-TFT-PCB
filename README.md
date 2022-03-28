@@ -1,9 +1,9 @@
-## Adafruit Adafruit 1.47" 320x172 Round Rectangle Color IPS TFT Display  - ST7789 PCB
+## Adafruit Adafruit 1.47" 320x172 Round Rectangle Color IPS TFT Display - ST7789 PCB
 
 <a href="http://www.adafruit.com/products/5393"><img src="assets/5393.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
-PCB files for the Adafruit Adafruit 1.47" 320x172 Round Rectangle Color IPS TFT Display  - ST7789. 
+PCB files for the Adafruit Adafruit 1.47" 320x172 Round Rectangle Color IPS TFT Display - ST7789. 
 
 Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/5393
